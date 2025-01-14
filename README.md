@@ -4,7 +4,7 @@
 
 ## Overview :
 🌟 The full form of EDA means Explanatory Data Analysis.  
-🌟 It is a process of performing initial investigations on data.  
+🌟 It is a process of performing initial investigations on the data.  
 🌟 By doing this kind of analysis, it helps us to discover patterns and standards.  
 🌟 It clearly explains the summary of statistics and graphical representations.  
 
