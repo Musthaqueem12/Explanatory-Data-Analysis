@@ -1,4 +1,4 @@
-# Explanatory-Data-Analysis
+#  🌟 Explanatory-Data-Analysis
 
 - This project, led by me, is a mini college project aimed at performing explanatory data analysis using a dataset from Kaggle focused on an online retail company based in the United Kingdom.
 
